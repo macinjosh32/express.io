@@ -25,7 +25,7 @@
     }],
     "dependencies": {
         "express": "~3.1.0",
-        "socket.io": "git://github.com/ifsnow/socket.io#improve_redis_store",
+        "socket.io": "git://github.com/Pingdom/socket.io#0.9+7cca186+6256f56",
         "async": "0.1.22",
         "underscore": "1.4.3",
         "coffee-script": "1.4.0"
